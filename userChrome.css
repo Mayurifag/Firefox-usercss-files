@@ -76,7 +76,7 @@ in the rule below) */
   --Not-loaded-bold: normal;
   --Not-loaded-background: transparent;
 
-  --Loading-text: #0088ff;
+  --Loading-text: #fff;
   --Loading-italic: normal;
   --Loading-bold: normal;
   --Loading-background: transparent;
