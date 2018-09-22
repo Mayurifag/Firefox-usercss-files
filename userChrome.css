@@ -949,7 +949,7 @@ part of the same rule */
 
 /* Webarea context menu */
 
-/* Navigation buttons (Back, forward and reload buttons) & it's separator */
+/* Navigation buttons (Back, forward and reload buttons) & it's separator *//*
 #context-navigation, #context-sep-navigation,
 
 /* Send image... */
@@ -970,10 +970,10 @@ part of the same rule */
 /* Send link... */
 #context-sendlink,
 
-/* Search X on your default search engine and a missing separator*/
+/* Search X on your default search engine and a missing separator*//*
 #context-searchselect, #frame-sep,
 
-/* Open link in a new tab */
+/* Open link in a new tab *//*
 #context-openlinkintab,
 /* Open link in a new window */
 #context-openlink,
